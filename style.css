@@ -1,0 +1,22 @@
+h1{
+   color: rgb(12, 119, 195);
+}
+p{
+    color: rgb(101, 88, 125);
+}
+body{
+    background-color: rgb(132, 115, 128);
+}
+button{
+    background-color: rgb(39, 46, 46);
+    color: beige;
+}
+.header{
+    color: blueviolet;
+}
+.box{
+    display: flex;
+}
+.push{
+    margin-left: auto;
+}
